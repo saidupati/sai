@@ -7,7 +7,7 @@ import com.Ojas.UserManagementSys.model.Role;
 //siddhardh
 ///hii
 //prasanna
-///sai
+
 @Repository
 public interface RoleDao extends CrudRepository<Role, Long> {
     Systrm.out.println("Hii sai prasanna");
